@@ -1,0 +1,4 @@
+Flight control software for a Raspberry Pi written in python
+> basic stabilization using gyroscope
+> tilt forward to move
+> GPS waypoint navigation system
